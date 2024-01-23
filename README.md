@@ -23,7 +23,7 @@ The project fails to function properly maybe with the MakeFile, because I had a 
 
 
 ## Generative AI Use
-I used ChatGPT for Prompts 1-10. 
+I used ChatGPT for Prompts 1-11. 
 
 ### Prompt 1
 What is the issue with my code? It's not giving me a very good explanation. 
