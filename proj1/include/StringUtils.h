@@ -3,6 +3,13 @@
 
 #include <string>
 #include <vector>
+#include <string>
+#include <vector>
+#include <cctype>
+#include <algorithm>
+#include <cassert>
+#include <iostream>
+#include <sstream>
 
 namespace StringUtils{
     
